@@ -12,6 +12,6 @@ Os principais resultados mostram que a área com maior expressão é a de polít
 
 ## Arquivos
 
-* Arquivo(s) de dados: **poder_legislativo_cpol_br.xlsx** e **poder_legislativo_cpol_br.Rds**
-* Dicionário(s) de dados: **CODEBOOK.xlsx**
-* Scripts de programação: **poder_legislativo_cpol_br_script.R**
+* Arquivos de dados: **poder_legislativo_cpol_br.xlsx** e **poder_legislativo_cpol_br.Rds**
+* Dicionário de dados: **CODEBOOK.xlsx**
+* Script de programação: **poder_legislativo_cpol_br_script.R**
